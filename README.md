@@ -2,7 +2,7 @@
 A Caesar cipher is a type of substitution in which each letter is shifted a certain number of places also known as a key, down the alphabet.  For example, with a shift of 1, A would be replaced by B, B would become C, and so on. This is an encryption program that takes in text input from a user and encrypts the inputed text . It only encrypts letters with the user providing the encryption key which must be between numbers 1-26. 
 
 ## Author
-* mary Muthoni
+* ............
 
 ## Project Setup Instructions
 Follow the following setup instructions to run the program.
